@@ -6,7 +6,8 @@ function createEmployeeRecord(args){
    familyName: args[1],
    title: args[2],
    payPerHour: args[3],
-   timeInEvents = []
+   timeInEvents: [],
+   
  }
 }
 
