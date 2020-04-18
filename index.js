@@ -1,6 +1,11 @@
 // Your code here
 
 function createEmployeeRecord(args){
- return 
+ return {
+   firstName: args[0],
+   familyName: args[1],
+   title: args[2],
+   
+ }
 }
 
